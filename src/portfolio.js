@@ -296,7 +296,7 @@ const contactInfo = {
 //Twitter Section
 
 const twitterDetails = {
-  userName: "lordrozar", //Replace "twitter" with your twitter username without @
+  // userName: "lordrozar", //Replace "twitter" with your twitter username without @
 };
 
 export {
