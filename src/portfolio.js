@@ -72,10 +72,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node",
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift",
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm",
     },
@@ -91,14 +87,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire",
     },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python",
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker",
-    },
   ],
 };
 
@@ -108,15 +96,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Backend",
+      Stack: "Backend Architecture",
       progressPercentage: "90%",
     },
     {
-      Stack: "React",
+      Stack: "SPA Development",
       progressPercentage: "80%",
     },
     {
-      Stack: "CSS/Design",
+      Stack: "Mobile Development",
       progressPercentage: "70%",
     },
   ],
@@ -125,7 +113,7 @@ const techStack = {
 // Your top 3 work experiences
 
 const workExperiences = {
-  viewExperiences: true, //Set it to true to show workExperiences Section
+  viewExperiences: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Ninja",
@@ -163,7 +151,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "saadpasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "r0zar", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
@@ -173,14 +161,14 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/",
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/",
-    },
+    // {
+    //   image: require("./assets/images/saayaHealthLogo.webp"),
+    //   link: "http://saayahealth.com/",
+    // },
+    // {
+    //   image: require("./assets/images/nextuLogo.webp"),
+    //   link: "http://nextu.se/",
+    // },
   ],
 };
 
