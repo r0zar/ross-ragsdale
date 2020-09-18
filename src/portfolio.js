@@ -178,7 +178,6 @@ const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
   achivementsCards: [
     // {
     //   title: "Google Code-In Finalist",
@@ -237,7 +236,6 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-
   blogs: [
     // {
     //   url:
@@ -264,12 +262,12 @@ const talkSection = {
   ),
 
   talks: [
-    {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/",
-    },
+    // {
+    //   title: "Build Actions For Google Assistant",
+    //   subtitle: "Codelab at GDG DevFest Karachi 2019",
+    //   slides_url: "https://bit.ly/saadpasta-slides",
+    //   event_url: "https://www.facebook.com/events/2339906106275053/",
+    // },
   ],
 };
 
@@ -281,7 +279,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
+    // "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
   ],
 };
 
