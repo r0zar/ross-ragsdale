@@ -290,15 +290,16 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com",
+  number: "+1-2153608015",
+  email_address: "rossragsdale@gmail.com",
 };
 
 //Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "lordrozar", //Replace "twitter" with your twitter username without @
 };
+
 export {
   greeting,
   socialMediaLinks,
