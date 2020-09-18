@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ross-ragsdale-prod-155904-authRole",
+            "UnauthRoleArn": "arn:aws:iam::144504656881:role/amplify-ross-ragsdale-prod-155904-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::144504656881:role/amplify-ross-ragsdale-prod-155904-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-ross-ragsdale-prod-155904-deployment",
+            "UnauthRoleName": "amplify-ross-ragsdale-prod-155904-unauthRole",
+            "StackName": "amplify-ross-ragsdale-prod-155904",
+            "StackId": "arn:aws:cloudformation:us-east-1:144504656881:stack/amplify-ross-ragsdale-prod-155904/d79cd160-6bb6-11ea-9a06-0e91a2a31d14",
+            "AmplifyAppId": "d1br51v36pzwq3"
+        }
+    }
+}
