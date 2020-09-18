@@ -128,7 +128,7 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
+      role: "Ninja",
       company: "Facebook",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
