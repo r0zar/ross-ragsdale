@@ -9,10 +9,10 @@ const greeting = {
   username: "Ross Ragsdale",
   title: "Hi all, I'm Ross",
   subTitle: emoji(
-    "I'm a self-employed software developer. I work with cutting-edge software tools and frameworks to build apps that are fast, maintainable and scale like crazy."
+    "I'm a freelance software developer. I work with cutting-edge software tools and frameworks to build apps that are fast, maintainable and scale like crazy."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1rrNIAP8G2ufZj5rIVJtw0uspU_HYRrfR/view?usp=sharing",
 };
 
 // Your Social Media Link
@@ -31,7 +31,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "Building apps the smart way. Learned how the hard way.",
   skills: [
     emoji(
@@ -39,7 +39,7 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase / AWS / Digital Ocean"
     ),
   ],
 
@@ -97,11 +97,11 @@ const techStack = {
   experience: [
     {
       Stack: "Backend Architecture",
-      progressPercentage: "90%",
+      progressPercentage: "95%",
     },
     {
       Stack: "SPA Development",
-      progressPercentage: "80%",
+      progressPercentage: "85%",
     },
     {
       Stack: "Mobile Development",
