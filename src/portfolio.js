@@ -182,29 +182,28 @@ const achievementSection = {
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
   achivementsCards: [
-    // {
-    //   title: "Google Code-In Finalist",
-    //   subtitle:
-    //     "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-    //   image: require("./assets/images/codeInLogo.webp"),
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url:
-    //         "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
-    //     },
-    //     {
-    //       name: "Award Letter",
-    //       url:
-    //         "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
-    //     },
-    //     {
-    //       name: "Google Code-in Blog",
-    //       url:
-    //         "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html",
-    //     },
-    //   ],
-    // },
+    {
+      title: "My work featured in online publications",
+      subtitle:
+        "I developed and pitched a new product feature to my company's Chief Strategy Officer. Turns out he was the only one who liked it.",
+      image: require("./assets/images/slackintegration.jpg"),
+      footerLink: [
+        {
+          name: "IndustryWeek",
+          url:
+            "https://www.industryweek.com/leadership/article/22028246/using-slack-on-the-shop-floor",
+        },
+        {
+          name: "DigitalEngineering247",
+          url:
+            "https://read.nxtbook.com/peerless_media/digital_engineering/august_2019/social_and_connected_plm.html",
+        },
+        {
+          name: "MBX Systems",
+          url: "https://www.mbx.com/insights/slack-on-the-shop-floor",
+        },
+      ],
+    },
     // {
     //   title: "Google Assistant Action",
     //   subtitle:
