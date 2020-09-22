@@ -7,9 +7,9 @@
   margin-bottom: 30px;
 }
 
-.starup-project-image > img {
+img {
   max-width: 100%;
-  height: auto;
+  max-height: 160px;
   align-self: center;
 }
 
@@ -32,11 +32,10 @@
 .saaya-health-div,
 .nextu-div {
   cursor: pointer;
-  width: 600px;
   display: flex;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .starup-project-image {
     display: none;
   }
