@@ -138,7 +138,7 @@ const workExperiences = {
       role: "Founder, Solution Architect",
       company: "Point Blank Dev",
       companylogo: require("./assets/images/pointblankdevLogo.jpg"),
-      date: "Jun 2020 – Present",
+      date: "Aug 2019 – Present",
       desc:
         "Founded software engineering consultancy and help other entrepreneurs build their businesses everyday.",
     },
@@ -160,6 +160,10 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
+    {
+      image: require("./assets/images/syngentaLogo.png"),
+      link: "https://www.syngenta.com/",
+    },
     {
       image: require("./assets/images/growflowLogo.png"),
       link: "https://www.growflow.com/",
