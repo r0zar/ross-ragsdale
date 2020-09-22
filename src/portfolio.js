@@ -132,7 +132,7 @@ const workExperiences = {
       companylogo: require("./assets/images/mbxsystemsLogo.jpg"),
       date: "Aug 2018 - Jul 2019",
       desc:
-        "Pitched and developed new Slack integration and was written about in mulitple online technical publications.",
+        "Pitched and developed new Slack integration which was written about in online technical publications.",
     },
     {
       role: "Founder, Solution Architect",
