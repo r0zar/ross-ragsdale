@@ -116,7 +116,7 @@ const workExperiences = {
   experience: [
     {
       role: "Sr. Application Developer",
-      company: "Discover",
+      company: "Discover Financial Services",
       companylogo: require("./assets/images/discoverLogo.jpg"),
       date: "May 2016 – Aug 2018",
       desc:
