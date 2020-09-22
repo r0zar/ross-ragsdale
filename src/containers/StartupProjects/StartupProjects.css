@@ -10,6 +10,7 @@
 .starup-project-image > img {
   max-width: 100%;
   height: auto;
+  align-self: center;
 }
 
 .project-card-head {
@@ -32,6 +33,7 @@
 .nextu-div {
   cursor: pointer;
   width: 600px;
+  display: flex;
 }
 
 @media (max-width: 768px) {
