@@ -36,13 +36,11 @@ const skillsSection = {
   subTitle: "Building apps the smart way. Learned how the hard way.",
   skills: [
     emoji(
-      "⚡ Backend Architecture - Leveraging the best resources AWS has to offer to build blazing fast apps"
+      "⚡ Leverage the best resources AWS has to offer to build blazing fast apps"
     ),
+    emoji("⚡ Utilize React and other web frameworks for best-in-class UI/UX"),
     emoji(
-      "⚡ Front End Development - Utilizing React and other web frameworks for best-in-class UI/UX"
-    ),
-    emoji(
-      "⚡ Integration of AI/ML, third party services, and external API for intelligent data pipelines"
+      "⚡ Integrate AI/ML, third party services and APIs for intelligent data pipelines"
     ),
   ],
 
