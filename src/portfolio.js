@@ -116,7 +116,7 @@ const workExperiences = {
     {
       role: "Sr. Application Developer",
       company: "Discover",
-      companylogo: require("./assets/images/discoverLogo.png"),
+      companylogo: require("./assets/images/discoverLogo.jpg"),
       date: "May 2016 – Aug 2018",
       desc:
         "Lead developer and maintainer of business critical software used by over 20k call center employees.",
@@ -128,7 +128,7 @@ const workExperiences = {
     {
       role: "Sr. Software Developer",
       company: "MBX Systems",
-      companylogo: require("./assets/images/mbxsystemsLogo.png"),
+      companylogo: require("./assets/images/mbxsystemsLogo.jpg"),
       date: "Aug 2018 - Jul 2019",
       desc:
         "Pitched and developed new Slack integration and was written about in mulitple online technical publications.",
@@ -136,7 +136,7 @@ const workExperiences = {
     {
       role: "Founder, Solution Architect",
       company: "Point Blank Dev",
-      companylogo: require("./assets/images/pointblankdevLogo.png"),
+      companylogo: require("./assets/images/pointblankdevLogo.jpg"),
       date: "Jun 2020 – Present",
       desc:
         "Founded software engineering consultancy and help other entrepreneurs build their businesses everyday.",
