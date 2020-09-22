@@ -83,15 +83,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws",
     },
     {
-      skillName: "Lambda",
+      skillName: "AWS Lambda",
       fontAwesomeClassname: "fas fa-server",
     },
     {
-      skillName: "DynamoDB",
+      skillName: "AWS DynamoDB",
       fontAwesomeClassname: "fas fa-database",
     },
     {
-      skillName: "AppSync",
+      skillName: "AWS AppSync",
       fontAwesomeClassname: "fas fa-sync",
     },
   ],
