@@ -51,15 +51,15 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML5",
       fontAwesomeClassname: "fab fa-html5",
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt",
     },
     {
-      skillName: "sass",
+      skillName: "SASS",
       fontAwesomeClassname: "fab fa-sass",
     },
     {
@@ -67,24 +67,32 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js",
     },
     {
-      skillName: "reactjs",
+      skillName: "ReactJS",
       fontAwesomeClassname: "fab fa-react",
     },
     {
-      skillName: "nodejs",
+      skillName: "NodeJS",
       fontAwesomeClassname: "fab fa-node",
     },
     {
-      skillName: "npm",
+      skillName: "NPM",
       fontAwesomeClassname: "fab fa-npm",
     },
     {
-      skillName: "sql-database",
+      skillName: "Amazon Web Services",
+      fontAwesomeClassname: "fab fa-aws",
+    },
+    {
+      skillName: "Lambda",
+      fontAwesomeClassname: "fas fa-server",
+    },
+    {
+      skillName: "DynamoDB",
       fontAwesomeClassname: "fas fa-database",
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws",
+      skillName: "AppSync",
+      fontAwesomeClassname: "fas fa-sync",
     },
   ],
 };
