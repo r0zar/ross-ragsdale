@@ -113,35 +113,35 @@ const techStack = {
 // Your top 3 work experiences
 
 const workExperiences = {
-  viewExperiences: false, //Set it to true to show workExperiences Section
+  viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Ninja",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      role: "Sr. Application Developer",
+      company: "Discover",
+      companylogo: require("./assets/images/discoverLogo.png"),
+      date: "May 2016 – Aug 2018",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      ],
+        "Lead developer and maintainer of business critical software used by over 20k call center employees.",
+      // descBullets: [
+      //   "Full-stack development of javascript applications and node back end infrastructure.",
+      //   "Maintained team CI/CD pipeline, and mentored external teams on DevOps best pratices.",
+      // ],
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Sr. Software Developer",
+      company: "MBX Systems",
+      companylogo: require("./assets/images/mbxsystemsLogo.png"),
+      date: "Aug 2018 - Jul 2019",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Pitched and developed new Slack integration and was written about in mulitple online technical publications.",
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      role: "Founder, Solution Architect",
+      company: "Point Blank Dev",
+      companylogo: require("./assets/images/pointblankdevLogo.png"),
+      date: "Jun 2020 – Present",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Founded software engineering consultancy and help other entrepreneurs build their businesses everyday.",
     },
   ],
 };
@@ -161,14 +161,14 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
-    // {
-    //   image: require("./assets/images/saayaHealthLogo.webp"),
-    //   link: "http://saayahealth.com/",
-    // },
-    // {
-    //   image: require("./assets/images/nextuLogo.webp"),
-    //   link: "http://nextu.se/",
-    // },
+    {
+      image: require("./assets/images/growflowLogo.png"),
+      link: "https://www.growflow.com/",
+    },
+    {
+      image: require("./assets/images/ochreLogo.png"),
+      link: "https://join.shopochre.com/",
+    },
   ],
 };
 
