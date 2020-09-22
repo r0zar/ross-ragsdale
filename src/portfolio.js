@@ -35,11 +35,13 @@ const skillsSection = {
   subTitle: "Building apps the smart way. Learned how the hard way.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Backend Architecture - Leveraging the best resources AWS has to offer to build blazing fast apps"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase / AWS / Digital Ocean"
+      "⚡ Front End Development - Utilizing React and other web frameworks for best-in-class UI/UX"
+    ),
+    emoji(
+      "⚡ Integration of AI/ML, third party services, and external API for intelligent data pipelines"
     ),
   ],
 
@@ -82,10 +84,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws",
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire",
     },
   ],
 };
