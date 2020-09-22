@@ -235,19 +235,27 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   blogs: [
-    // {
-    //   url:
-    //     "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-    //   title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-    //   description:
-    //     "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
-    // },
-    // {
-    //   url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-    //   title: "Why REACT is The Best?",
-    //   description:
-    //     "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
-    // },
+    {
+      url:
+        "https://www.codementor.io/@r0zar/don-t-use-typescript-for-your-next-project-here-s-why-1afd52afla",
+      title: "Don't use Typescript for your next project, here's why",
+      description:
+        "My contrarian take on Typescript, and why it's generally a waste of time.",
+    },
+    {
+      url:
+        "https://www.codementor.io/@r0zar/debugging-web-apps-local-overrides-1a3hikh3yj",
+      title: "Debugging web apps: Local Overrides",
+      description:
+        "Take your web dev debugging skills to expert level with this little-known hack.",
+    },
+    {
+      url:
+        "https://www.codementor.io/@r0zar/how-appsync-supercharges-my-workflow-19xyh3tej4",
+      title: "How AppSync supercharges my workflow",
+      description:
+        "AWS AppSync transformed and streamlined my workflow for full-stack web development.",
+    },
   ],
 };
 
