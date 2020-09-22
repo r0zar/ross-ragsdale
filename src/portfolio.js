@@ -193,7 +193,7 @@ const achievementSection = {
     {
       title: "My work featured in online publications",
       subtitle:
-        "I developed and pitched a new product feature to my company's Chief Strategy Officer. Turns out he was the only one who liked it.",
+        "I developed and pitched a new product feature to my company's Chief Strategy Officer. Turns out he wasn't the only one who liked it.",
       image: require("./assets/images/slackintegration.jpg"),
       footerLink: [
         {
