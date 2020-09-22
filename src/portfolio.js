@@ -9,7 +9,7 @@ const greeting = {
   username: "Ross Ragsdale",
   title: "Hi all, I'm Ross",
   subTitle: emoji(
-    "I'm a freelance software developer. I work with cutting-edge software tools and frameworks to build apps that are fast, maintainable and scale like crazy."
+    "I'm a freelance software developer. I work with cutting-edge software tools and frameworks to build apps that are fast, maintainable and scale like crazy 🔥"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1rrNIAP8G2ufZj5rIVJtw0uspU_HYRrfR/view?usp=sharing",
