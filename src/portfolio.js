@@ -246,6 +246,11 @@ const blogSection = {
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   blogs: [
     {
+      url: "https://www.codementor.io/@r0zar/why-i-built-a-aws-amplify-plugin-1asbqs48kf",
+      title: "Why I built a AWS Amplify Plugin",
+      description: "This past weekend I published an AWS Amplify plugin called amplify-category-data."
+    },
+    {
       url:
         "https://www.codementor.io/@r0zar/don-t-use-typescript-for-your-next-project-here-s-why-1afd52afla",
       title: "Don't use Typescript for your next project, here's why",
