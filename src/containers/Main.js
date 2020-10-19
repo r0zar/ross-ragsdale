@@ -15,6 +15,7 @@ import Podcast from "./podcast/Podcast";
 import Top from "./topbutton/Top";
 import Twitter from "./twitter-embed/twitter";
 import Profile from "./profile/Profile";
+import Discord from "./discord-embed/discord";
 
 export default class Main extends Component {
   render() {

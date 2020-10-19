@@ -88,10 +88,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "AWS DynamoDB",
       fontAwesomeClassname: "fas fa-database",
     },
-    {
-      skillName: "AWS AppSync",
-      fontAwesomeClassname: "fas fa-sync",
-    },
   ],
 };
 
@@ -246,9 +242,11 @@ const blogSection = {
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   blogs: [
     {
-      url: "https://www.codementor.io/@r0zar/why-i-built-a-aws-amplify-plugin-1asbqs48kf",
+      url:
+        "https://www.codementor.io/@r0zar/why-i-built-a-aws-amplify-plugin-1asbqs48kf",
       title: "Why I built a AWS Amplify Plugin",
-      description: "This past weekend I published an AWS Amplify plugin called amplify-category-data."
+      description:
+        "This past weekend I published an AWS Amplify plugin called amplify-category-data.",
     },
     {
       url:
@@ -305,9 +303,9 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Discord is the best way to reach me. Press connect to join and introduce yourself!",
   number: "+1-2153608015",
   email_address: "rossragsdale@gmail.com",
 };
