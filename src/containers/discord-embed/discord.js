@@ -26,7 +26,7 @@ export default function Discord() {
         <div className="centerContent">
           <iframe
             src={`https://discordapp.com/widget?id=${serverId}&theme=${theme}`}
-            width="400"
+            width="300"
             height="380"
             allowtransparency="true"
             frameborder="0"
