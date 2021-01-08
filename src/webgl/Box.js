@@ -18,13 +18,13 @@ export default function SpinningBox(props) {
     <mesh
       {...props}
       ref={mesh}
-      scale={active ? [2.5, 2.5, 2.5] : [2, 2, 2]}
+      scale={active ? [1.5, 1.5, 1.5] : [1, 1, 1]}
       onClick={(event) => setActive(!active)}
       onPointerOver={(event) => setHover(true)}
       onPointerOut={(event) => setHover(false)}
     >
-      <boxBufferGeometry args={[1, 1, 1]} />
-      <meshStandardMaterial color={hovered ? "hotpink" : "orange"} />
+      <boxBufferGeometry args={[2, 2, 2]} />
+      <meshStandardMaterial color={hovered ? "#89C541" : "#55198B"} />
     </mesh>
   );
 }
